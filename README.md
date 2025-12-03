@@ -41,11 +41,11 @@ Lütfen çalıştırmak istediğiniz dilin dizinine gidin ve aşağıdaki komutl
 #### ☕ Java
 
 1.  **Gereksinim:** JDK
-2.  **Çalıştırma (Örnek):**
+2.  **Çalıştırma:**
     ```bash
     # /Java/ dizininde
-    javac *.java
-    java Main
+    javac KuantumAmbar.java
+    java KuantumAmbar
     ```
 
 #### 💻 C\# (.NET)
