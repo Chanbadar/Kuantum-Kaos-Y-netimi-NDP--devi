@@ -1,0 +1,14 @@
+/home/arch/Kuantum-Kaos-Yönetimi-c#/bin/Debug/net9.0/Kuantum-Kaos-Yönetimi-c#
+/home/arch/Kuantum-Kaos-Yönetimi-c#/bin/Debug/net9.0/Kuantum-Kaos-Yönetimi-c#.deps.json
+/home/arch/Kuantum-Kaos-Yönetimi-c#/bin/Debug/net9.0/Kuantum-Kaos-Yönetimi-c#.runtimeconfig.json
+/home/arch/Kuantum-Kaos-Yönetimi-c#/bin/Debug/net9.0/Kuantum-Kaos-Yönetimi-c#.dll
+/home/arch/Kuantum-Kaos-Yönetimi-c#/bin/Debug/net9.0/Kuantum-Kaos-Yönetimi-c#.pdb
+/home/arch/Kuantum-Kaos-Yönetimi-c#/obj/Debug/net9.0/Kuantum-Kaos-Yönetimi-c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/arch/Kuantum-Kaos-Yönetimi-c#/obj/Debug/net9.0/Kuantum-Kaos-Yönetimi-c#.AssemblyInfoInputs.cache
+/home/arch/Kuantum-Kaos-Yönetimi-c#/obj/Debug/net9.0/Kuantum-Kaos-Yönetimi-c#.AssemblyInfo.cs
+/home/arch/Kuantum-Kaos-Yönetimi-c#/obj/Debug/net9.0/Kuantum-Kaos-Yönetimi-c#.csproj.CoreCompileInputs.cache
+/home/arch/Kuantum-Kaos-Yönetimi-c#/obj/Debug/net9.0/Kuantum-Kaos-Yönetimi-c#.dll
+/home/arch/Kuantum-Kaos-Yönetimi-c#/obj/Debug/net9.0/refint/Kuantum-Kaos-Yönetimi-c#.dll
+/home/arch/Kuantum-Kaos-Yönetimi-c#/obj/Debug/net9.0/Kuantum-Kaos-Yönetimi-c#.pdb
+/home/arch/Kuantum-Kaos-Yönetimi-c#/obj/Debug/net9.0/Kuantum-Kaos-Yönetimi-c#.genruntimeconfig.cache
+/home/arch/Kuantum-Kaos-Yönetimi-c#/obj/Debug/net9.0/ref/Kuantum-Kaos-Yönetimi-c#.dll
