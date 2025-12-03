@@ -74,4 +74,4 @@ Projenin geliştirilmesine (farklı dillerde implementasyon, yeni özellikler) k
 
 ### 📜 Lisans
 
-Bu proje **MIT Lisansı** altında lisanslanmıştır.
+Bu proje **AGPL-3 Lisansı** altında lisanslanmıştır.
